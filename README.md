@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Suman Katuwal | Full Stack Developer" />
+  <img src="https://user-images.githubusercontent.com/your-image-host/banner.png" alt="Suman Katuwal | Full Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Suman Katuwal 👋</h1>
@@ -13,10 +13,10 @@
   <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sumankatuwal143@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="https://www.linkedin.com/in/suman-katuwal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -25,9 +25,11 @@
 
 ### 🧑‍💻 About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/your-image-host/suman-photo.jpg" width="250" style="border-radius: 8px; margin-left: 16px;" alt="Suman Katuwal" />
+
 - 🔭 I’m currently working as a **Full Stack Developer**
-- 💼 Skilled in: `Java`, `JavaScript`, `React`, `Node.js`, `PostgreSQL`, `Firebase`, `Tailwind`, and more
-- 🌱 I’m currently learning **Cloud technologies & DevOps**
+- 💼 Skilled in: `Java`, `JavaScript`, `React`, `Node.js`, `PostgreSQL`, `Firebase`, `Tailwind`
+- 🌱 Currently exploring **Cloud & DevOps**
 - 💬 Ask me anything about full-stack development
 - ⚡ Fun fact: I can debug faster than my coffee brews ☕
 
@@ -67,8 +69,8 @@
 
 ### 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- 📧 your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/suman-katuwal/)
+- 📧 sumankatuwal143@gmail.com
 
 ---
 

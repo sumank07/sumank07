@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-host/banner.png" alt="Suman Katuwal | Full Stack Developer" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Suman Katuwal 👋</h1>
 
 <p align="center">

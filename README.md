@@ -20,8 +20,6 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/your-image-host/suman-photo.jpg" width="250" style="border-radius: 8px; margin-left: 16px;" alt="Suman Katuwal" />
-
 - 🔭 I’m currently working as a **Full Stack Developer**
 - 💼 Skilled in: `Java`, `JavaScript`, `React`, `Node.js`, `PostgreSQL`, `Firebase`, `Tailwind`
 - 🌱 Currently exploring **Cloud & DevOps**
